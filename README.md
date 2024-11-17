@@ -7,7 +7,7 @@ Now
  - 📆 Available for Freelance Work Regarding ReactJS, NodeJS, Laravel; 
 
 Bio
- - 🏢 I'm currently working at Fraunhofer FOKUS (Berlin)
+ - 🏢 I'm currently working at BMW Group (Munich)
  - ⚙️ I use daily: <code>.js</code>, <code>.ts</code>, <code>.py</code>, <code>.php</code>
  - 🌱 Learning all about AI, ML, Software Development
  - 💬 Ping me about Javascript, Typescript, Python, PHP
