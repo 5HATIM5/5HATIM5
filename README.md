@@ -1,4 +1,4 @@
-### Hi 👋, I'm a Software Engineer Working in Berlin, Germany (Origin Pakistan)
+### Hi 👋, I'm a Software Engineer Working in Berlin, Germany
 
 
 Now
