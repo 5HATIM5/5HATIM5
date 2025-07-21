@@ -3,14 +3,14 @@
 
 Now
  - ✨ Pursuing Master's in Artificial Intelligence from Brandenburg Technical University of Cottbus;
- - 🔥 Interested in Software Development and Artificial intelligence;
- - 📆 Available for Freelance Work Regarding ReactJS, NodeJS, Laravel; 
+ - 🔥 Interested in Software Development and Artificial Intelligence;
+ - 📆 Available for Freelance Work Regarding MERN, MEAN & LAMP stack; 
 
 Bio
- - 🏢 I'm currently working at BMW Group (Munich)
+ - 🏢 I'm currently working at Karlsruhe Institute of Technology
  - ⚙️ I use daily: <code>.js</code>, <code>.ts</code>, <code>.py</code>, <code>.php</code>
  - 🌱 Learning all about AI, ML, Software Development
- - 💬 Ping me about Javascript, Typescript, Python, PHP
+ - 💬 Ping me about JavaScript, TypeScript, Python, PHP
 
 
 
