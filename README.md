@@ -30,9 +30,10 @@ With a strong background in **Software Development** and **AI-driven solutions**
 </p>
 
 💻 **Languages:** JavaScript, TypeScript, Python, PHP  
-⚙️ **Frameworks:** React, Angular, Node.js, Express, Laravel  
+⚙️ **Frameworks:** React, Redux, Next, Express, Nest, FastAPI, Laravel  
 🧩 **AI/ML Stack:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
-☁️ **DevOps:** Docker, AWS, GitHub Actions, Linux  
+☁️ **DevOps:** Docker, AWS, GitHub Actions, Linux, Vercel  
+☁️ **Tools:** Git, Jira, GitHub Actions, Confluence, Jest, Cypress  
 🧠 **Areas of Interest:** Artificial Intelligence, ML Ops, Full-Stack Development
 
 ---
@@ -41,27 +42,27 @@ With a strong background in **Software Development** and **AI-driven solutions**
 
 <p align="center">
   <a href="https://www.fraunhofer.de" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fraunhofer_Logo.svg" alt="Fraunhofer" height="55"/>
+    <img src="https://www.designtagebuch.de/wp-content/uploads/mediathek//2009/04/fraunhofer-gesellschaft-logo.jpg" alt="Fraunhofer" height="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.bmw.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW" height="55"/>
+    <img src="https://static.rollingpin.ch/public/uploads/logos/ac/73/702874/Unbenannt.JPG" alt="BMW" height="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kit.edu" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Karlsruhe_Institute_of_Technology_logo.svg" alt="KIT" height="55"/>
+    <img src="https://softwarecampus.de/wp-content/uploads/KIT-logo-1.webp" alt="KIT" height="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.b-tu.de" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/BTU_Cottbus%E2%80%93Senftenberg_logo.svg" alt="BTU" height="55"/>
+    <img src="https://www.b-tu.de/fileadmin/_processed_/c/d/csm_btu_logo_st_e_cmyk_ced69f8b92.jpg" alt="BTU" height="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.dfki.de" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/DFKI_Logo.svg" alt="DFKI" height="55"/>
+    <img src="https://www-live.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo_d_schrift_FB_315x600.jpg" alt="DFKI" height="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gretchen.ai" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/151719803?s=200&v=4" alt="Gretchen AI" height="55"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xT5ChR91cFbfejoopyTV9ObkEzyGoLhOUw&s" alt="Gretchen AI" height="100"/>
   </a>
 </p>
 
@@ -94,4 +95,7 @@ With a strong background in **Software Development** and **AI-driven solutions**
 </p>
 
 
+---
+
 ✨ _“The best way to predict the future is to create it.”_ — Peter Drucker
+
